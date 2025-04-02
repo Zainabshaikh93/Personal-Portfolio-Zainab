@@ -95,7 +95,7 @@ function TopHeader() {
         {/* Contact Number for Mobile */}
         <div className="flex justify-center items-center mt-2">
           <i className="fas fa-phone-alt mr-2"></i>
-          <a href="tel:+1234567890" className="text-black">
+          <a href="tel:+923442841486" className="text-black">
             +923442841486
           </a>
         </div>
