@@ -60,7 +60,7 @@ const Contact = () => {
         <div className="flex flex-col text-center w-full mb-12">
           <h1 className="sm:text-3xl text-2xl font-medium title-font mb-4 text-white">Contact Us</h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base text-gray-200">
-            Reach out to us and we’ll respond as soon as possible!
+            Reach out to us and we will respond as soon as possible!
           </p>
         </div>
 
@@ -158,7 +158,7 @@ const Contact = () => {
                 <a className="text-white">zeenshaikh93@email.com</a>
                 
                 {/* Gmail Chat Link */}
-                <p className="text-white text-xl">tart a conversation via <a href="https://mail.google.com/mail/u/0/#chat" className="text-yellow-800 underline" target="_blank">Gmail Chat</a></p>
+                <p className="text-white text-xl">Start a conversation via <a href="https://mail.google.com/mail/u/0/#chat" className="text-yellow-800 underline" target="_blank">Gmail Chat</a></p>
 
                 <div className="flex justify-center space-x-4 mt-4">
                   <a

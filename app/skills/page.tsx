@@ -12,10 +12,10 @@ const Skills = () => {
     { name: "Git", icon: <FaGit size={40} />, color: "bg-gradient-to-r from-red-600 to-pink-600" },
 
     // Skills with SVG Image icons
-    { name: "Next.js", icon: "/images/nextjs-icon.svg", color: "bg-gradient-to-r from-teal-400 to-cyan-600" },
-    { name: "Tailwind CSS", icon: "/images/tailwind.png", color: "bg-gradient-to-r from-teal-500 to-green-500" },
-    { name: "TypeScript", icon: "/images/ts.png", color: "bg-gradient-to-r from-blue-400 to-blue-500" },
-    { name: "Node.js", icon: "/images/node.png", color: "bg-gradient-to-r from-purple-600 to-pink-600" },
+    { name: "Next.js", icon: "/next.png", color: "bg-gradient-to-r from-teal-400 to-cyan-600" },
+    { name: "Tailwind CSS", icon: "/tailwind.png", color: "bg-gradient-to-r from-teal-500 to-green-500" },
+    { name: "TypeScript", icon: "/ts.png", color: "bg-gradient-to-r from-blue-400 to-blue-500" },
+    { name: "Node.js", icon: "/node.png", color: "bg-gradient-to-r from-purple-600 to-pink-600" },
   ];
 
   return (
